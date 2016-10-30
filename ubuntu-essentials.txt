@@ -1,0 +1,43 @@
+To change the scroll bar to normal use the following command in the terminal
+********************************
+gsettings set com.canonical.desktop.interface scrollbar-mode normal
+********************************
+
+To install brackets in ubuntu using terminal
+********************************
+sudo add-apt-repository ppa:webupd8team/brackets
+sudo apt-get update
+sudo apt-get install brackets
+********************************
+
+To install Sublime2 in ubuntu
+********************************
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+sudo apt-get update
+sudo apt-get install sublime-text
+********************************
+
+To install oracle jdk in ubuntu
+********************************
+sudo apt-get install python-software-properties
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+********************************
+
+To install Pycharm in ubuntu
+********************************
+sudo add-apt-repository ppa:mystic-mirage/pycharm
+sudo apt-get update
+sudo apt-get install pycharm
+********************************
+
+To install Webstorm in ubuntu
+********************************
+wget https://download.jetbrains.com/webstorm/WebStorm-2016.2.4.tar.gz
+tar xvfz WebStorm-11.0.3.tar.gz
+cd WebStorm-*/bin
+./webstorm.sh
+********************************
+
+
