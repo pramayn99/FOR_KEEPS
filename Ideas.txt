@@ -1,2 +1,4 @@
 This will contain some ideas for projects
 1. A platform for sharing notes.
+2. An application for event broadcast.
+
