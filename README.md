@@ -1,2 +1,2 @@
 # FOR_KEEPS
-This repo will be a compilation of noteworthy pdfs, links, ebooks and ideas.
+This repo will be a store of noteworthy pdfs, links, ebooks and ideas.
