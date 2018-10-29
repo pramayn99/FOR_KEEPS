@@ -2,3 +2,4 @@ This will contain some ideas for projects
 1. A platform for sharing notes.
 2. An application for event broadcast.
 3. A platform to monetise learning by tuitions.
+4. A place to share noteworthy ideas.
